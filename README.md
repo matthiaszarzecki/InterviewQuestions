@@ -1,6 +1,6 @@
 # InterviewQuestions
 
-What do you when i suggest a feature or improvement? e.g.
+What do you when I suggest a feature or improvement? e.g.
 - Suggesting a minor visual update in a certain region?
 - Suggesting a backend-endpoint be updated to match others?
 How will that be handled? What priority will it have?
