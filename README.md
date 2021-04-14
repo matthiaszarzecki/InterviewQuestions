@@ -1,7 +1,7 @@
 # Interview Questions
 
 What do you do when I suggest a feature or improvement? e.g.
-- Suggesting a minor visual update in a certain region?
+- Suggesting a minor visual update in a certain part of the app?
 - Suggesting a backend-endpoint be updated to match others?
 How will that be handled? What priority will it have?
 
