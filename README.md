@@ -23,8 +23,10 @@ What plugins or pods do you use?
 Do you use 3rd party plugins?
 If facebook, how so? The Facebook SDK issues are well documented and public.
 
+Do you heavily rely on 3rd party plugins throughout the entire project, like RxSwift, TinyConstraints? Which ones? If so, what decisions led to this?
+
 Do you have webviews in your app? How many?
-If it is a webview-based app, what decisions led to this? Do you have any issues with maintenance?
+If it is a webview-based app, what decisions led to this? Do you have any issues with maintenance? Do you expect your app-developers to be able to handle tasks and issues that are more frontend-oriented?
 
 How many people working on the app? Who are they, maybe I know them? What are their specialities?
 
