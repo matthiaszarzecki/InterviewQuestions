@@ -35,3 +35,5 @@ What is your QA procedure?
 What is your PR procedure?
 
 What’s the best and worst thing about working here?
+
+How was your last vacation? Surely you took your vacation days.
