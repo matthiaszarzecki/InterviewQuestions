@@ -37,3 +37,5 @@ What is your PR procedure?
 What’s the best and worst thing about working here?
 
 How was your last vacation? Surely you took your vacation days.
+
+Thinking back to people who have been in this position previously, what differentiated the ones who were good from the ones who were really great?
