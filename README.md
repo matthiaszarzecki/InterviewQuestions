@@ -41,3 +41,5 @@ How was your last vacation? Surely you took your vacation days.
 Thinking back to people who have been in this position previously, what differentiated the ones who were good from the ones who were really great?
 
 How to you deal with toxic employees? Did you ever have to remove somebody who was behaving unacceptably and insulting towards coworkers?
+
+why did hte last people in this position quit?
