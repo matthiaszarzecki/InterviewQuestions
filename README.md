@@ -43,3 +43,5 @@ Thinking back to people who have been in this position previously, what differen
 How to you deal with toxic employees? Did you ever have to remove somebody who was behaving unacceptably and insulting towards coworkers?
 
 why did hte last people in this position quit?
+
+How are your company values embedded in your day to day practice and your business model?
