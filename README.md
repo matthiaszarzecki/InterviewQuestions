@@ -45,3 +45,11 @@ How to you deal with toxic employees? Did you ever have to remove somebody who w
 why did hte last people in this position quit?
 
 How are your company values embedded in your day to day practice and your business model?
+
+Why are you looking to fill this position
+
+talk to me about turnover here and what you've done to improve it
+
+Can you explain why this role has been open for 6 months?
+
+why do people leave this position?
