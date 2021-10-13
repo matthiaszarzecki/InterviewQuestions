@@ -53,3 +53,21 @@ talk to me about turnover here and what you've done to improve it
 Can you explain why this role has been open for 6 months?
 
 why do people leave this position?
+
+what would be a reason you wouldn’t hire me?
+
+Is there anything I have said or haven’t said which would leave you in any doubt that I could do an excellent job for you?
+
+is there anything we’ve discussed in this interview that i could explain a little better or elaborate further on for you
+
+I feel strongly that my background is consistent with the role and I think based on our conversation that we'd make a great team. That said, is there anything about my background or my answers today that gives you pause, sowe can discuss it in more detail?
+
+why should I work for you
+
+what is the key part of this job you love that keeps you here?
+
+Do you think you pay your employees a living wage?
+
+Tell me 3 unwritten rules about working in this company
+
+how many interviews does your company conduct before a decision?
