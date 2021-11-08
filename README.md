@@ -71,3 +71,6 @@ Do you think you pay your employees a living wage?
 Tell me 3 unwritten rules about working in this company
 
 how many interviews does your company conduct before a decision?
+
+How many people are in your scrum-team?
+- If more than 10, how so? Surely you know having more than 10 is counter-productive
